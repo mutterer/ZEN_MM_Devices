@@ -1,1 +1,1 @@
-# ZEN_MM_Devices
+# Using µManager supported devices in ZEN
